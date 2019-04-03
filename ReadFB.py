@@ -13,6 +13,6 @@ graph = fb.GraphAPI(access_token=token, version="3.1")
 data = graph.request("me")
 print(data)
 
-data = graph.request("{0}/posts".format(group_id))
+data = graph.request("204153042939851/posts/?fields=message,link,permalink_url,created_time,type,name,id,comments.limit(0).summary(true),shares,likes.limit(0).summary(true),reactions.limit(0).summary(true)&limit=100")
 print(data)
 

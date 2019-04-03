@@ -1,0 +1,15 @@
+facebook.GraphAPIError: (#10) To use 'Page Public Content Access', your use of this endpoint must be reviewed and approved by Facebook.
+To submit this 'Page Public Content Access' feature for review please read our documentation on reviewable features: https://developers.facebook.com/docs/apps/review.
+
+
+
+
+
+
+Groups API
+https://developers.facebook.com/docs/graph-api/reference/v3.2/group
+
+
+publish_to_groups
+https://developers.facebook.com/docs/graph-api/reference/v3.2/group/feed
+
